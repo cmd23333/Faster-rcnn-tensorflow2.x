@@ -1,0 +1,9 @@
+/logs/*
+/.idea/*
+*.h5
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
