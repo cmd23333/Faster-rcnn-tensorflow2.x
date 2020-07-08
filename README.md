@@ -18,4 +18,4 @@ tensorflow 2.x
 tensorboard
 
 # Usage
-改变config.voc_dir为本地VOC数据集路径即可。
+改变config.voc_dir为本地VOC数据集路径，运行trainer.py即可。
