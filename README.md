@@ -3,6 +3,9 @@ An implement of origin faster-rcnn based on tensorflow 2.x and visualize it.
 
 使用Tensorflow2.x实现了faster-rcnn并可视化算法运行流程
 
+# 2020.12.9 
+最近忙着写毕业论文，issue里提到的问题后面都会跟进的。包括 训练过程不稳定、用vgg16预训练权重、predict函数没有写完整等等，写完论文会改的 =。=
+
 # Details
 https://zhuanlan.zhihu.com/p/157907380
 
